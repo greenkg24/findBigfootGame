@@ -1,0 +1,8 @@
+body {
+  background-image:url('forest.jpg');
+}
+#bigfoot {
+  position: absolute;
+  left: 100px;
+  top: 50px;
+}
